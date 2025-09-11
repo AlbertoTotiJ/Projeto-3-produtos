@@ -1,0 +1,30 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.log
+
+# --- Virtual env ---
+venv/
+.env/
+.venv/
+
+# --- Jupyter / IPython ---
+.ipynb_checkpoints
+*.ipynb
+
+# --- VSCode / IDEs ---
+.vscode/
+.idea/
+
+# --- Arquivos temporários ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+~$*.xlsx
+
+
