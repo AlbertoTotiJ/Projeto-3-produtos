@@ -14,7 +14,6 @@ O objetivo é transformar dados brutos de coleta (web scraping ou arquivos Excel
     * Utilização de SQL via DuckDB para agregações rápidas em memória.
     * Cálculo de preço médio por categoria e por supermercado.
 * **Visualização de Dados:**
-    * Gráficos de série temporal para acompanhar a evolução de preços de produtos específicos.
     * Comparativo de custo total da cesta entre mercados.
     * Simulação da economia máxima possível comprando sempre o item mais barato ("MelhorCompra").
 
